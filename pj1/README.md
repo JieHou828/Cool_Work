@@ -10,4 +10,4 @@ An interactive google cloud function used a machine learning model (Random Fores
 
 **Step 5**: Build an interactive interface to get input from users using widgets package.
 
-**Step 6**: Use Google Colab to run the "interactive_interface.ipynb" and share the link.
+**Step 6**: Use Google Colab to run the "interactive_interface.ipynb" (try download it from github) and share the link.
